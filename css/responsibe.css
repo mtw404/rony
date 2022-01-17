@@ -1,0 +1,574 @@
+@media (min-width: 1400px) {
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* banner part star */
+    #banner .banner_item {
+        padding: 160px 0;
+    }
+    #banner .banner_text h1 {
+        font-size: 50px;
+    }
+    /* banner part end */
+
+    /* about part star */
+    #about .about_img::after {
+        width: 80%;
+    }
+    /* about part end */
+
+    /* contact part star */
+    #contact .contact_inner .contact_content form input {
+        padding-right: 55px;
+        font-size: 16px;
+    }
+    #footer .footer_left2 .icon a {
+        font-size: 17px;
+    }
+    /* contact part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    /* banner part star */
+    #banner .banner_item {
+        padding: 140px 0;
+    }
+
+    #banner .banner_text h1 {
+        font-size: 48px;
+    }
+
+    #banner .banner_text p {
+        width: 400px;
+    }
+
+    /* banner part end */
+
+    /* about part star */
+    #about .about_img img {
+        width: 100%;
+        max-width: 100%;
+        padding-top: 38px;
+    }
+
+    #about .about_img::after {
+        left: -15px;
+        top: 9px;
+        width: 111%;
+        height: 104%;
+    }
+
+    #about .about_text h4 {
+        font-size: 25px;
+    }
+
+    #about .about_text h5 {
+        font-size: 16px;
+        padding: 4px 0;
+    }
+
+    #about .about_text p {
+        line-height: 25px;
+    }
+
+    #about .about_text ul li p span {
+        font-size: 16px;
+    }
+
+    #about .about_text ul li p {
+        font-size: 16px;
+        padding-bottom: 0;
+    }
+
+    #about .about_text .download_btn {
+        font-size: 18px;
+    }
+
+    /* about part end */
+
+    /* service part star */
+    #service .service_item {
+        padding: 50px 10px 10px;
+    }
+
+    /* service part end */
+
+    /* blog part star */
+    #blog .card-body {
+        padding: 10px 7px;
+    }
+
+    /* blog part end */
+
+    /* contact part star */
+    #contact .contact_inner .contact_content form input {
+        padding-right: 0;
+        font-size: 18px;
+    }
+
+    #contact .contact_inner .contact_content form a {
+        font-size: 18px;
+        margin-top: 20px;
+    }
+
+    #contact .contact_inner .contact_content h4 {
+        font-size: 35px;
+    }
+
+    /* contact part end */
+
+    /* about part star */
+    /* about part end */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    /* menu part star */
+    .main_menu .navbar-toggler i {
+        color: #fff;
+    }
+
+    .main_menu .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    .main_menu #navbarSupportedContent {
+        text-align: center;
+    }
+
+    /* menu part end */
+
+    /* bananer part star */
+    #banner .banner_item {
+        padding: 60px 0;
+    }
+
+    #banner .banner_text h1 {
+        font-size: 20px;
+        padding-bottom: 5px;
+    }
+
+    #banner .banner_text p {
+        font-size: 16px;
+    }
+
+    #banner .banner_text a {
+        padding: 8px 16px;
+        font-size: 15px;
+        margin-top: 29px;
+    }
+
+    /* bananer part end */
+
+    /* about part star */
+    #about {
+        padding: 32px 0;
+    }
+
+    #about .about_img::after {
+        left: 28px;
+        top: -22px;
+        width: 63%;
+        height: 98%;
+    }
+
+    #about .about_text h4 {
+        font-size: 24px;
+        padding-top: 10px;
+    }
+
+    #about .about_text h5 {
+        font-size: 17px;
+        padding: 3px 0;
+    }
+
+    #about .about_text .download_btn {
+        padding: 8px 20px;
+        font-size: 16px;
+    }
+
+    #about .about_text .git_btn {
+        padding: 8px 26px;
+        font-size: 16px;
+    }
+
+    /* about part end */
+
+    /* skill part star */
+    #skills {
+        padding-bottom: 23px;
+    }
+
+    /* skill part end */
+
+    /* service part star */
+    #service {
+        padding-bottom: 41px;
+    }
+
+    /* service part end */
+
+    /* portfolio part star */
+    #portfolio .portfolio_menu .filter_menu ul li {
+        padding: 8px 50px;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+
+    #portfolio .filter_img .img_item {
+        width: 50%;
+        padding: 0 4px;
+        margin-top: 8px;
+    }
+
+    #portfolio .portfolio_btn a {
+        font-size: 16px;
+        padding: 8px 18px;
+    }
+
+    /* portfolio part end */
+
+    /* count_up part star */
+    #counter_up .counter_inenr h3 {
+        font-size: 22px;
+    }
+
+    #counter_up .counter_inenr p {
+        font-size: 14px;
+    }
+
+    #counter_up {
+        padding: 40px 0;
+        margin-bottom: 32px;
+    }
+
+    /* count_up part end */
+
+    /* client_review part star */
+    #client_review .slick-dots li button {
+        height: 13px;
+        width: 13px;
+    }
+
+    #client_review .slick-dots li.slick-active button {
+        width: 18px;
+        height: 18px;
+    }
+
+    #client_review {
+        padding-bottom: 38px;
+    }
+
+    #blog .blog_btn a {
+        font-size: 17px;
+        padding: 8px 18px;
+    }
+
+    /* client_review part end */
+    /* body{
+    overflow-x: hidden;
+} */
+    /* contact part star */
+    #contact .contact_inner .contact_content form input {
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-right: 35px;
+        padding-left: 10px;
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    #contact .contact_inner .contact_content form textarea {
+        font-size: 16px;
+        height: 42px;
+        width: 230px;
+        margin-bottom: 10px;
+    }
+
+    #contact .contact_inner .contact_content form a {
+        padding: 7px 25px;
+        font-size: 16px;
+    }
+
+    #contact .contact_inner {
+        padding: 40px 0;
+    }
+
+    #contact .contact_inner .contact_content h4 {
+        font-size: 22px;
+    }
+
+    /* contact part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* header part star */
+    /* header part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+}
+
+@media (max-width: 575.98px) {
+
+    /* menu part star */
+    .main_menu .navbar-toggler i {
+        color: #fff;
+    }
+
+    .main_menu .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    .main_menu #navbarSupportedContent {
+        text-align: center;
+    }
+
+    /* menu part end */
+
+    /* bananer part star */
+    #banner .banner_item {
+        padding: 25px 0;
+    }
+
+    #banner .banner_text h1 {
+        font-size: 20px;
+        padding-bottom: 5px;
+    }
+
+    #banner .banner_text p {
+        font-size: 16px;
+    }
+
+    #banner .banner_text a {
+        padding: 8px 16px;
+        font-size: 15px;
+        margin-top: 29px;
+    }
+
+    /* bananer part end */
+
+    /* about part star */
+    #about {
+        padding: 32px 0;
+    }
+
+    #about .about_img::after {
+        left: -5px;
+        top: -6px;
+        width: 104%;
+        height: 103%;
+    }
+
+    #about .about_text h4 {
+        font-size: 24px;
+        padding-top: 10px;
+    }
+
+    #about .about_text h5 {
+        font-size: 17px;
+        padding: 3px 0;
+    }
+
+    #about .about_text .download_btn {
+        padding: 8px 20px;
+        font-size: 16px;
+    }
+
+    #about .about_text .git_btn {
+        padding: 8px 26px;
+        font-size: 16px;
+    }
+
+    /* about part end */
+
+    /* skill part star */
+    #skills {
+        padding-bottom: 23px;
+    }
+
+    /* skill part end */
+
+    /* service part star */
+    #service {
+        padding-bottom: 41px;
+    }
+
+    /* service part end */
+
+    /* portfolio part star */
+    #portfolio .portfolio_menu .filter_menu ul li {
+        padding: 8px 50px;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+
+    #portfolio .filter_img .img_item {
+        width: 50%;
+        padding: 0 4px;
+        margin-top: 8px;
+    }
+
+    #portfolio .portfolio_btn a {
+        font-size: 16px;
+        padding: 8px 18px;
+    }
+
+    /* portfolio part end */
+
+    /* count_up part star */
+    #counter_up .counter_inenr h3 {
+        font-size: 17px;
+    }
+
+    #counter_up .counter_inenr p {
+        font-size: 9px;
+    }
+
+    #counter_up {
+        padding: 40px 0;
+        margin-bottom: 32px;
+    }
+
+    /* count_up part end */
+
+    /* client_review part star */
+    #client_review .slick-dots li button {
+        height: 13px;
+        width: 13px;
+    }
+
+    #client_review .slick-dots li.slick-active button {
+        width: 18px;
+        height: 18px;
+    }
+
+    #client_review {
+        padding-bottom: 38px;
+    }
+
+    #blog .blog_btn a {
+        font-size: 17px;
+        padding: 8px 18px;
+    }
+
+    /* client_review part end */
+    body {
+        overflow-x: hidden;
+    }
+
+    /* contact part star */
+    #contact .contact_inner .contact_content form input {
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-right: 35px;
+        padding-left: 10px;
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    #contact .contact_inner .contact_content form textarea {
+        font-size: 16px;
+        height: 42px;
+        width: 230px;
+        margin-bottom: 10px;
+    }
+
+    #contact .contact_inner .contact_content form a {
+        padding: 7px 25px;
+        font-size: 16px;
+    }
+
+    #contact .contact_inner {
+        padding: 40px 0;
+    }
+
+    #contact .contact_inner .contact_content h4 {
+        font-size: 22px;
+    }
+
+    /* contact part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+
+    /* about part star */
+    /* about part end */
+}
